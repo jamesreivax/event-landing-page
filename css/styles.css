@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+#img/leon.jpg {
+    background-image: url(/WebDev/bitwise-web-development/event-landing-page/img/leon.jpg);
+}
+
+/* .background {
+    background-image: url(/WebDev/bitwise-web-development/event-landing-page/img/banner.jpg);
+   background-size: cover;
+} */
