@@ -16,7 +16,13 @@
     background-image: url(/WebDev/bitwise-web-development/event-landing-page/img/leon.jpg);
 }
 
-/* .background {
-    background-image: url(/WebDev/bitwise-web-development/event-landing-page/img/banner.jpg);
-   background-size: cover;
-} */
+ .background {
+   background-color: bisque;
+} 
+
+.background2 {
+  background-image: url(/WebDev/bitwise-web-development/event-landing-page/img/background.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
